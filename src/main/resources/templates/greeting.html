@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Spring Boot</title>
+</head>
+<body>
+    <p th:text="'Hello, ' + ${name} + '!'"></p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quam tortor, fermentum ac turpis ac, tincidunt egestas ipsum. Aliquam erat volutpat. Nunc ipsum dui, rutrum.</p>
+    <img th:src="@{/logo.jpg}" width="600" height="600" alt="Logo of Vistula University"/>
+</body>
+</html>
