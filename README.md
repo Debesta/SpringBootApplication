@@ -29,7 +29,7 @@ Follow these steps to set up and run the application:
    ```
 
 2. **Build the Project:**
-   Open project in IntelliJ IDEA. Default clonning place of repository is your user folder e.g. C:/Users/Debesta/SpringBootApplication
+   Open project in IntelliJ IDEA. Default location for cloning a repository is your user folder e.g. C:/Users/Debesta/SpringBootApplication
 
 3. **Run the Application:**
    Start the Spring Boot application using green button, which is located on top bar or use Shift + F10:
