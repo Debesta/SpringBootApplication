@@ -13,7 +13,7 @@ The primary objective of this project is to:
 - Java Development Kit (JDK) 17 or higher
 - Apache Maven 3.8.1 or higher
 - Git Bash
-- 
+  
 ## Technologies and Tools
 To run this project, you will need the following:
 
